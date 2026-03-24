@@ -3,3 +3,14 @@ p{
     font-size: 48px;
     background-color:blanchedalmond;
 }
+
+
+h1, h2{
+    color:green;
+    font-size: 100px;
+    background-color:blanchedalmond;
+}
+
+h1 {
+    COLOR:RED;
+}
